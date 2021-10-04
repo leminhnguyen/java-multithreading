@@ -1,0 +1,5 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.home": "/home/nguyenlm/jdk-11.0.12+7",
+}
